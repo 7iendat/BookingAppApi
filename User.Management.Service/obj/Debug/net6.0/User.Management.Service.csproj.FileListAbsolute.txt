@@ -1,0 +1,12 @@
+D:\Workspace\C#\School\WebApi1\User.Management.Service\bin\Debug\net6.0\User.Management.Service.deps.json
+D:\Workspace\C#\School\WebApi1\User.Management.Service\bin\Debug\net6.0\User.Management.Service.dll
+D:\Workspace\C#\School\WebApi1\User.Management.Service\bin\Debug\net6.0\User.Management.Service.pdb
+D:\Workspace\C#\School\WebApi1\User.Management.Service\obj\Debug\net6.0\User.Management.Service.csproj.AssemblyReference.cache
+D:\Workspace\C#\School\WebApi1\User.Management.Service\obj\Debug\net6.0\User.Management.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\School\WebApi1\User.Management.Service\obj\Debug\net6.0\User.Management.Service.AssemblyInfoInputs.cache
+D:\Workspace\C#\School\WebApi1\User.Management.Service\obj\Debug\net6.0\User.Management.Service.AssemblyInfo.cs
+D:\Workspace\C#\School\WebApi1\User.Management.Service\obj\Debug\net6.0\User.Management.Service.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\School\WebApi1\User.Management.Service\obj\Debug\net6.0\User.Management.Service.dll
+D:\Workspace\C#\School\WebApi1\User.Management.Service\obj\Debug\net6.0\refint\User.Management.Service.dll
+D:\Workspace\C#\School\WebApi1\User.Management.Service\obj\Debug\net6.0\User.Management.Service.pdb
+D:\Workspace\C#\School\WebApi1\User.Management.Service\obj\Debug\net6.0\ref\User.Management.Service.dll
